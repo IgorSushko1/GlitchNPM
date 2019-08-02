@@ -11,7 +11,8 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^2.10.2"
+    "express": "^2.10.2",
+    "moment": "~2.10.2"
   },
   "engines": {
     "node": "8.x"
